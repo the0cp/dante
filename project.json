@@ -1,0 +1,26 @@
+{
+	"contentrating" : "Everyone",
+	"description" : "Dancing Dante - Devil May Cry 5",
+	"file" : "scene.json",
+	"general" : 
+	{
+		"properties" : 
+		{
+			"schemecolor" : 
+			{
+				"order" : 0,
+				"text" : "ui_browse_properties_scheme_color",
+				"type" : "color",
+				"value" : "0.9333333333333333 0.25098039215686274 0.25098039215686274"
+			}
+		}
+	},
+	"preview" : "preview.jpg",
+	"ratingsex" : "none",
+	"ratingviolence" : "none",
+	"tags" : [ "Game" ],
+	"title" : "Dancing Dante",
+	"type" : "Scene",
+	"version" : 0,
+	"visibility" : "public"
+}
